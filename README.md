@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Este repositório contém um projeto desenvolvido para análise de dados de um supermercado. O objetivo é aplicar técnicas de ciência de dados para explorar e modelar os dados, utilizando o poder de processamento do **PySpark**.
+Este repositório contém um projeto desenvolvido para análise de dados de um supermercado. O objetivo é aplicar técnicas de ciência de dados para explorar e modelar os dados, utilizando o poder de processamento do **PySpark**. Como a base de dados utilizada era muito grande, nao foi colocada no repositorio
 
 ## 📋 Objetivos
 
